@@ -1,0 +1,89 @@
+{
+   "Chicago Crime": [
+      {
+         "Year": 1999,
+         "ArrestTrue": "15",
+         "ArrestFalse": "20"
+      },
+      {
+         "Year": 2008,
+         "ArrestTrue": "42",
+         "ArrestFalse": "115"
+      },
+      {
+         "Year": 2007,
+         "ArrestTrue": "29",
+         "ArrestFalse": "79"
+      },
+      {
+         "Year": 2009,
+         "ArrestTrue": "346",
+         "ArrestFalse": "324"
+      },
+      {
+         "Year": 2006,
+         "ArrestTrue": "44",
+         "ArrestFalse": "69"
+      },
+      {
+         "Year": 2010,
+         "ArrestTrue": "424",
+         "ArrestFalse": "503"
+      },
+      {
+         "Year": 2005,
+         "ArrestTrue": "28",
+         "ArrestFalse": "48"
+      },
+      {
+         "Year": 2011,
+         "ArrestTrue": "413",
+         "ArrestFalse": "603"
+      },
+      {
+         "Year": 2004,
+         "ArrestTrue": "34",
+         "ArrestFalse": "41"
+      },
+      {
+         "Year": 2012,
+         "ArrestTrue": "313",
+         "ArrestFalse": "517"
+      },
+      {
+         "Date": 2003,
+         "ArrestTrue": "21",
+         "ArrestFalse": "36"
+      },
+      {
+         "Year": 2013,
+         "ArrestTrue": "513",
+         "ArrestFalse": "615"
+      },
+      {
+         "Year": 2002,
+         "ArrestTrue": "18",
+         "ArrestFalse": "23"
+      },
+      {
+         "Year": 2014,
+         "ArrestTrue": "471",
+         "ArrestFalse": "766"
+      },
+      {
+         "Year": 2001,
+         "ArrestTrue": "17",
+         "ArrestFalse": "29"
+      },
+      {
+         "Year": 2015,
+         "ArrestTrue": "119",
+         "ArrestFalse": "181"
+      },
+      {
+         "Year": 2000,
+         "ArrestTrue": "25",
+         "ArrestFalse": "25"
+      }
+   ]
+}

@@ -1,0 +1,91 @@
+{
+	{	"Year": "2001",
+		"theftOver500": 0,
+		"theftUnder500": 60352
+	},
+	{
+		"Year": "2002",
+		"theftOver500": 0,
+		"theftUnder500": 46378
+	},
+	{
+		"Year": "2003",
+		"theftOver500": 0,
+		"theftUnder500": 36387
+	},
+	{
+		"Year": "2004",
+		"theftOver500": 0,
+		"theftUnder500": 35270
+	},
+	{
+		"Year": "2005",
+		"theftOver500": 0,
+		"theftUnder500": 27378
+	},
+	{
+		"Year": "2006",
+		"theftOver500": 0,
+		"theftUnder500": 26707
+	},
+	{
+		"Year": "2007",
+		"theftOver500": 0,
+		"theftUnder500": 24757
+	},
+	{
+		"Year": "2008",
+		"theftOver500": 0,
+		"theftUnder500": 24877
+	},
+	{
+		"Year": "2009",
+		"theftOver500": 0,
+		"theftUnder500": 23732
+	},
+	{
+		"Year": "2010",
+		"theftOver500": 0,
+		"theftUnder500": 24074
+	},
+	{
+		"Year": "2011",
+		"theftOver500": 0,
+		"theftUnder500": 28335
+	},
+	{
+		"Year": "2012",
+		"theftOver500": 0,
+		"theftUnder500": 28774
+	},
+	{
+		"Year": "2013",
+		"theftOver500": 0,
+		"theftUnder500": 27121
+	},
+	{
+		"Year": "2014",
+		"theftOver500": 0,
+		"theftUnder500": 28192
+	},
+	{
+		"Year": "2015",
+		"theftOver500": 0,
+		"theftUnder500": 24231
+	},
+	{
+		"Year": "2016",
+		"theftOver500": 0,
+		"theftUnder500": 23961
+	},
+	{
+		"Year": "2017",
+		"theftOver500": 0,
+		"theftUnder500": 24225
+	},
+	{
+		"Year": "2018",
+		"theftOver500": 0,
+		"theftUnder500": 9525
+	}
+}
