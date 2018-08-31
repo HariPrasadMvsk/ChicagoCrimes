@@ -64,7 +64,7 @@ rl.on('line', (line) => {
 });
 
 rl.on('close', () => {
-	fs.writeFile('./output/theft-1.json', JSON.stringify(finalData), (err) => {
+	fs.writeFile('./output/data.json', JSON.stringify(finalData), (err) => {
 		if(err) {
 			console.log('Err::', err);
 		}
